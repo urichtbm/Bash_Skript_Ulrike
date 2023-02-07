@@ -2,4 +2,6 @@
 
 Mein Bash-Skript liegt hier.
 Eine Änderung von heute.
-*Noch eine Änderung.
+*Noch eine Änderung.*
+
+Liebe Grüße von Nora
